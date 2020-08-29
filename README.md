@@ -4,6 +4,7 @@ st is a simple terminal emulator for X which sucks less.
 
 Applied Patches
 ---------------
+--Load colors from Xresources
 
 Requirements
 ------------
