@@ -1,4 +1,4 @@
-# Sofian's build of st - simple terminal
+Sofian's build of st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
 
